@@ -1,4 +1,4 @@
-# <管理さん>
+# 管理さん
 
 ## サイト概要
 
@@ -22,10 +22,10 @@
 
 ## 設計書
 
-・ER図
+・ER図<br>
 https://app.diagrams.net/#G1A-V4htNV4lq_IkYwkLL9GdciIMNhVx93
 
-・テーブル定義書、アプリケーション詳細設計書
+・テーブル定義書、アプリケーション詳細設計書<br>
 https://docs.google.com/spreadsheets/d/1Hh9D-H9z6cZnf3PDfm3IiCHss58tRte0mAx1A6_Yyq4/edit#gid=0
 
 ## チャレンジ要素一覧
